@@ -1,0 +1,4 @@
+
+                           [console_scripts]
+                           propyte = propyte:propyte
+                           

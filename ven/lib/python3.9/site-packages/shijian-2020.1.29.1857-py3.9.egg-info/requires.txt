@@ -1,0 +1,13 @@
+ipywidgets
+pandas
+python-dateutil
+matplotlib
+numpy
+pyprel
+scipy
+seaborn
+sklearn
+technicolor
+
+[:python_version < "3.0"]
+subprocess32

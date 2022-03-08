@@ -1,0 +1,11 @@
+docopt
+pushbullet.py
+propyte
+pyprel
+pytg
+psutil
+shijian
+technicolor
+
+[:python_version < "3.0"]
+subprocess32

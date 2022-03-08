@@ -1,0 +1,10 @@
+datavision
+docopt
+matplotlib
+nltk
+numpy
+propyte
+pyaudio
+pyprel
+scipy
+shijian
